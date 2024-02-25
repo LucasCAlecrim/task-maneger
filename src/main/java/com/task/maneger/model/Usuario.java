@@ -1,8 +1,7 @@
 package com.task.maneger.model;
 
 import java.io.Serializable;
-
-import org.hibernate.mapping.List;
+import java.util.List;
 
 import jakarta.persistence.CascadeType;
 import jakarta.persistence.Column;
